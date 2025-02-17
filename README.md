@@ -17,7 +17,7 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 
-## The objectives of Botium Toys’ internal IT audit are to
+## The objectives of Botium Toys’ internal IT audit are to:
 
 1\. Adhere to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF).
 
