@@ -115,7 +115,7 @@ PCI DSS is an international security standard that ensures organizations storing
 
 From: Triantaphyllos Georgatzis
 
-Date: 17/02.2025
+Date: 17/02/2025
 
 Subject: Internal Security Audit from the IT Department
 
