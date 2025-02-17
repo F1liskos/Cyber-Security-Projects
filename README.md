@@ -64,7 +64,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 Managerial Controls
 
-| **Control Name** | **Control Type ** | **Must Have (Y)** | **Priority** |
+| **Control Name** | **Control Type** | **Must Have (Y)** | **Priority** |
 | --- | --- | --- | --- |
 | Least Privilege | Preventative; reduces risk by making sure vendors and non-authorized staff only have access to the assets/data they need to do their jobs | Y   | High |
 | Disaster recovery plans | Corrective; business continuity to ensure systems are able to run in the event of an incident/there is limited to no loss of productivity downtime/impact to system components, including: computer room environment (air conditioning, power supply, etc.); hardware (servers, employee equipment); connectivity (internal network, wireless); applications (email, electronic data); data and restoration | Y   | High |
@@ -75,7 +75,7 @@ Managerial Controls
 
 ## Technical Controls
 
-| **Control Name** | **Control Type ** | **Must Have (Y)** | **Priority** |
+| **Control Name** | **Control Type** | **Must Have (Y)** | **Priority** |
 | --- | --- | --- | --- |
 | Firewall | Preventative; firewalls **_are already in place_** to filter unwanted/malicious traffic from entering internal network | NA  | NA  |
 | Intrusion Detection System (IDS) | Detective; allows IT team to identify possible intrusions (e.g., anomalous traffic) quickly | Y   | High |
