@@ -19,7 +19,7 @@ This macOS keylogger is a custom-built software tool designed to monitor and log
 
 **Technical Details:**
 
--   **Language:** Written in [Programming Language, e.g., Python, Swift, C++].
+-   **Language:** Written in [Programming Language, Python].
 
 -   **APIs Used:** Utilizes macOS APIs such as Core Graphics and IOKit for capturing keyboard events.
 
