@@ -44,13 +44,11 @@ This keylogger is intended for ethical and legal use only. Unauthorized use of t
 
 1.  Clone the repository or download the source code.
 
-2.  Build the project using [build tool, e.g., Xcode, Makefile].
+2.  Grant necessary permissions in System Preferences > Security & Privacy > Accessibility.
 
-3.  Grant necessary permissions in System Preferences > Security & Privacy > Accessibility.
+3.  Configure the settings (e.g., log file location) as needed.
 
-4.  Configure the settings (e.g., log file location) as needed.
-
-5.  Run the keylogger.
+4.  Run the keylogger.
 
 **Future Enhancements:**
 
